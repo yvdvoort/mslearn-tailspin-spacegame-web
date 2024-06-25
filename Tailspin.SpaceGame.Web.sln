@@ -7,6 +7,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{34D26E5B-7ADA-40DD-A03D-6A99EFE109D0}"
 	ProjectSection(SolutionItems) = preProject
 		azure-pipelines.yml = azure-pipelines.yml
+		Templates\build.yml = Templates\build.yml
 		package-lock.json = package-lock.json
 		package.json = package.json
 	EndProjectSection
